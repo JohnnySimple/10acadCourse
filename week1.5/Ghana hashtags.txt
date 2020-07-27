@@ -1,0 +1,25 @@
+culture:
+1. #IndependenceDay
+2. #ghanamostbeautiful
+3. #GhanaCulture
+4. #GhanaMostStrongest
+5. #KnowYourAfrica
+6. #Ghana
+7. #SayNoToCorruption
+economy:
+1. #yearofreturn
+2.  #ghanaianbusiness
+3. #localbusiness
+4. #GhanaBeyondAid
+health:
+1. #StayHomeStaySafe
+2.  #socialdistancing
+3. #WearAMask
+5. #ghanacovid19
+4.
+social:
+1. #GHtourism
+2. #ghweddings
+3. #HappyMothersDay
+4.  # #BringBackTheLove
+5.   #TadiGirls
